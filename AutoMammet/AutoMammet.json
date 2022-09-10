@@ -1,0 +1,16 @@
+{
+  "Author": "Rietty Lavoie",
+  "Name": "AutoMammet",
+  "InternalName": "AutoMammet",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Provides an easy copy and pastable CSV format you can use for island sanctuary.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "island sanctuary",
+    "plugin",
+    "helper"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Provides an easy copy and pastable CSV format you can use for island sanctuary."
+}
