@@ -5,8 +5,8 @@
         "Punchline": "Provides an easy copy and pastable CSV format you can use for island sanctuary.",
         "Description": "Provides an easy copy and pastable CSV format you can use for island sanctuary. Built for the main IS spreadsheet and the supply pattern calculator. Use at your own discretion. No support is offered or promised.",
         "InternalName": "AutoMammet",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/Rietty/Dalamud/tree/main/AutoMammet",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "IconUrl": "https://raw.githubusercontent.com/Rietty/Dalamud/main/AutoMammet/icon.png",
@@ -17,6 +17,6 @@
         "DownloadLinkTesting": "https://github.com/Rietty/Dalamud/releases/download/AutoMammet/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rietty/Dalamud/releases/download/AutoMammet/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "0"
+        "LastUpdated": "2022-09-10"
     }
 ]
