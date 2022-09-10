@@ -10,7 +10,8 @@ Third party experimental URL: `https://raw.githubusercontent.com/Rietty/Dalamud/
 - AutoMammet
 
 ## Plugins:
-### AutoMammet: Provides an easy copy and pastable CSV format you can use for island sanctuary spreadsheets. Provides options to export the popularity, future popularity and the current cycle's demand and shift values. Both as words and as numbers on a scale of -2 to 2. This plugin does not provide any calculations for Island Sanctuary, merely an export option for your ingame data. 
+### AutoMammet: 
+Provides an easy copy and pastable CSV format you can use for island sanctuary spreadsheets. Provides options to export the popularity, future popularity and the current cycle's demand and shift values. Both as words and as numbers on a scale of -2 to 2. This plugin does not provide any calculations for Island Sanctuary, merely an export option for your ingame data. 
 
 Can use the `/mammet` command to bring up the main window.
 
