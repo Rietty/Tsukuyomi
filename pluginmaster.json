@@ -11,11 +11,11 @@
         "DalamudApiLevel": 7,
         "IconUrl": "https://github.com/Rietty/Dalamud/blob/main/AutoMammet/icon.png?raw=true",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Rietty/Dalamud/blob/main/AutoMammet/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Rietty/Dalamud/releases/download/AutoMammet/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Rietty/Dalamud/blob/main/AutoMammet/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Rietty/Dalamud/blob/main/AutoMammet/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Rietty/Dalamud/releases/download/AutoMammet/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Rietty/Dalamud/releases/download/AutoMammet/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     }
