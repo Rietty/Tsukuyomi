@@ -9,7 +9,7 @@
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
-        "IconUrl": "https://github.com/Rietty/Dalamud/blob/main/AutoMammet/icon.png?raw=true",
+        "IconUrl": "https://raw.githubusercontent.com/Rietty/Dalamud/main/AutoMammet/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Rietty/Dalamud/releases/download/AutoMammet/latest.zip",
         "IsHide": false,
