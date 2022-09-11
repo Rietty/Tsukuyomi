@@ -7,4 +7,4 @@ Support is only offered on plugins actually in the XIVLauncher testing/main plug
 Third party experimental URL: `https://raw.githubusercontent.com/Rietty/Dalamud/main/pluginmaster.json`
 
 ## Plugin Listing:
-- AutoMammet
+- https://github.com/Rietty/AutoMammet
