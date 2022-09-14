@@ -2,7 +2,7 @@
   "Author": "Rietty Lavoie",
   "Name": "AutoMammet",
   "InternalName": "AutoMammet",
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.3.0.0",
   "Description": "Provides an easy copy and pastable CSV format you can use for island sanctuary.",
   "ApplicableVersion": "any",
   "Tags": [
