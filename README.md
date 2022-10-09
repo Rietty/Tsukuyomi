@@ -10,4 +10,4 @@ Third party experimental URL: `https://raw.githubusercontent.com/Rietty/Dalamud/
 - https://github.com/Rietty/AutoMammet
 
 ## Plugin Listing (Experimental/Provided by this Repo)
-- AutoMammet (Unstable/Initial Build)
+- N/A
