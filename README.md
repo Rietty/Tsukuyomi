@@ -4,7 +4,7 @@ To be clear this repository is not Dalamud itself, it's simply the storage unit 
 
 Support is only offered on plugins actually in the XIVLauncher testing/main plugin branches, which are in their own repos.
 
-Third party experimental URL: `https://raw.githubusercontent.com/Rietty/Dalamud/main/pluginmaster.json`
+Third party experimental URL: `https://raw.githubusercontent.com/Rietty/Lamentorum/main/pluginmaster.json`
 
 ## Plugin Listing (Testing/Official):
 - https://github.com/Rietty/AutoMammet
